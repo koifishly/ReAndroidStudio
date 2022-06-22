@@ -7,6 +7,11 @@
 */*/*/*/*/*/.DS_Store
 */*/*/*/*/*/*/.DS_Store
 */*/*/*/*/*/*/*/.DS_Store
+
+kernel/main
+kernel/config.json
+kernel/tools
+
 # Built application files
 *.apk
 *.aar
