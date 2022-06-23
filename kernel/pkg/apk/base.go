@@ -10,8 +10,12 @@ type ConfigJson struct {
 type ApkToolParams struct {
 	// apktool所在路径
 	ApkToolPath string `json:"apktoolpath"`
+	// 原始APK
+	InAPK string `json:"in"`
 	// 输出路径
 	OutDir string `json:"outdir"`
+	// 新的apk
+	OutAPK string `json:"newapk"`
 }
 
 type JarSignerParams struct {
