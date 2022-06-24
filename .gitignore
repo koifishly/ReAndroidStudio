@@ -7,10 +7,13 @@
 */*/*/*/*/*/.DS_Store
 */*/*/*/*/*/*/.DS_Store
 */*/*/*/*/*/*/*/.DS_Store
-
+*/*/*/*/*/*/*/*/*/.DS_Store
+*/*/*/*/*/*/*/*/*/*/.DS_Store
+*/*/*/*/*/*/*/*/*/*/*/.DS_Store
+*/*/*/*/*/*/*/*/*/*/*/*/.DS_Store
 kernel/main
 kernel/config.json
-kernel/tools
+kernel/bin/java
 
 # Built application files
 *.apk

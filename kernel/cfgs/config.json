@@ -1,0 +1,16 @@
+{
+    "apktool": {
+        "apktoolpath": "/Users/koifishly/bin/apktool_2.6.0.jar",
+        "in": "/Users/koifishly/Desktop/cnfix/jebfenxi/app-release_kill.apk",
+        "outdir": "/Users/koifishly/Desktop/cnfix/jebfenxi/out",
+        "newapk":"/Users/koifishly/Desktop/cnfix/jebfenxi/new.apk"
+    },
+    "apksigner": {
+        "apksignerpath": "/Users/koifishly/Library/Android/sdk/build-tools/30.0.3/apksigner",
+        "ks": "/Users/koifishly/Downloads/defaultApkSigner.keystore",
+        "out": "/Users/koifishly/Downloads/gggg.apk",
+        "alias": "key0",
+        "kspwd": "123456",
+        "in": ""
+    }
+}
