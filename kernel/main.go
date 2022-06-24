@@ -44,5 +44,6 @@ func routeMainMenu(id int) {
 	case 2:
 		apk.ToSign()
 	case id_add_log:
+		apk.InjectLogCode()
 	}
 }
